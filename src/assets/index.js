@@ -26,9 +26,9 @@ import programmingclub from "./company/programmingclub.jpg"
 import afc from './company/afc.png'
 import fusion from './company/fusion.png'
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import bai from './bai.png'
+import learnify from './learnify.png'
+import Trippy from './Trippy.png'
 
 export {
   logo,
@@ -52,9 +52,9 @@ export {
   tailwind,
   typescript,
   threejs,  
-  carrent,
-  jobit,
-  tripguide,
+  bai,
+  learnify,
+  Trippy,
   Rakumura,
   programmingclub,
   afc,

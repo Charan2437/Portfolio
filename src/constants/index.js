@@ -16,13 +16,13 @@ import {
   figma,
   docker,
   Rakumura,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   programmingclub,
   afc,
-  fusion
+  fusion,
+  learnify,
+  bai,
+  Trippy
 } from "../assets";
 
 export const navLinks = [
@@ -219,7 +219,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: learnify,
     source_code_link: "https://github.com/charan2437/learnify",
   },
   {
@@ -240,7 +240,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: Trippy,
     source_code_link: "https://github.com/",
   },
   {
@@ -261,7 +261,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: bai,
     source_code_link: "https://github.com/",
   },
 ];
