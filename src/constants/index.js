@@ -218,6 +218,10 @@ const projects = [
         name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "SpringBoot",
+        color: "blue-text-gradient",
+      },
     ],
     image: learnify,
     source_code_link: "https://github.com/charan2437/learnify",
